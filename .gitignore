@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+logs/
+local-sln/
+appsettings.user.json
+appsettings.user.yml
+.DS_Store
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+**/node_modules
+*.csproj.user
